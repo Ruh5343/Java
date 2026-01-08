@@ -1,0 +1,8 @@
+public class Main {
+
+    public static void main(String[] args) {
+        String name="Ruhanee";
+         System.out.println(name.charAt(0));
+}
+    }
+//output: R
